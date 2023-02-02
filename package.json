@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@types/node": "^13.13.5",
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   },
   "engines": {
     "node": ">=10.0"
