@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "bindings": "^1.5.0",
-    "cmake-js": "^6.1.0"
+    "cmake-js": "^7.2.1"
   },
   "devDependencies": {
     "@types/node": "^13.13.5",
